@@ -4,6 +4,7 @@ Repository dedicated for my Data Engineering courses from Coursera by Duke Unive
 ## Repositories for individual assignments
 
 - [Scripting with Python and SQL for Data Engineering, week 1 Mapping data](https://github.com/trickwide/mapping-data_duke)
+- [Scripting with Python and SQL for Data Engineering, week 3 Web Scraping](https://github.com/trickwide/web-scraping-demo)
 
 ## Course certificates
 
