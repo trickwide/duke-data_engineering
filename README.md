@@ -10,3 +10,4 @@ Repository dedicated for my Data Engineering courses from Coursera by Duke Unive
 
 - [Python and Pandas for Data Engineering](https://coursera.org/share/39b3cf284e96f004cc14bac20274651d)
 - [Linux and Bash for Data Engineering](https://coursera.org/share/69d21d4731e7e52ffc5cf63875119f8e)
+- [Scripting with Python and SQL for Data Engineering](https://coursera.org/share/12bbce8d4a70a82205805c06820f43b4)
